@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="580.0" prefWidth="600.0" style="-fx-background-color: #d7b29d;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.SearchController">
+   <children>
+      <Text fill="#7e3d3d" layoutX="20.0" layoutY="39.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Film keresése:" AnchorPane.leftAnchor="20.0" AnchorPane.topAnchor="14.2412109375">
+         <font>
+            <Font name="Bodoni MT" size="27.0" />
+         </font></Text>
+      <ListView fx:id="movieView" layoutX="14.0" layoutY="237.0" onMouseClicked="#handleClickListView" prefHeight="285.0" prefWidth="200.0" AnchorPane.topAnchor="270.0" />
+      <SplitPane fx:id="splitPane" dividerPositions="0.49056603773584906" layoutX="226.0" layoutY="237.0" orientation="VERTICAL" prefHeight="285.0" prefWidth="360.0" AnchorPane.leftAnchor="226.0" AnchorPane.topAnchor="270.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <TextArea fx:id="getMovieDescription" editable="false" maxWidth="360.0" prefHeight="135.0" prefWidth="360.0" />
+               </children></AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="109.0" prefWidth="358.0">
+               <children>
+                  <TextArea fx:id="getActors" editable="false" maxWidth="360.0" prefHeight="140.0" prefWidth="360.0" />
+               </children></AnchorPane>
+        </items>
+      </SplitPane>
+      <HBox fx:id="hboxPane" layoutX="61.0" layoutY="46.0" maxHeight="140.0" maxWidth="520.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="77.0" prefWidth="520.0">
+         <children>
+            <VBox fx:id="vboxPane0" prefHeight="58.0" prefWidth="160.0">
+                <HBox.margin>
+                    <Insets left="10.0" />
+                </HBox.margin>
+            </VBox>
+            <VBox fx:id="vboxPane1" prefHeight="134.0" prefWidth="160.0">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+               <children>
+                  <ImageView accessibleRole="BUTTON" fitHeight="26.0" fitWidth="40.0" onMouseClicked="#searchItems" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icon/Search-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </VBox>
+            <VBox fx:id="vboxPane2" prefHeight="200.0" prefWidth="160.0">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+            </VBox>
+         </children>
+      </HBox>
+      <ImageView accessibleRole="BUTTON" fitHeight="26.0" fitWidth="40.0" layoutX="10.0" layoutY="47.0" onMouseClicked="#addSearchField" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@icon/plus_PNG61.png" />
+         </image>
+      </ImageView>
+      <Text fx:id="warningMessage" layoutX="10.0" layoutY="570.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: Red;" wrappingWidth="564.0" />
+      <Label layoutX="17.0" layoutY="124.0" prefHeight="26.0" prefWidth="66.0" text="Kategória:" textFill="#5e2424" AnchorPane.leftAnchor="17.0">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <CheckBox fx:id="checkBox1" layoutX="22.0" layoutY="159.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox2" layoutX="124.0" layoutY="159.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox3" layoutX="235.0" layoutY="159.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox4" layoutX="425.0" layoutY="159.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox5" layoutX="22.0" layoutY="204.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox6" layoutX="124.0" layoutY="204.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox7" layoutX="235.0" layoutY="204.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox8" layoutX="425.0" layoutY="204.0" mnemonicParsing="false" />
+      <Button layoutX="459.0" layoutY="232.0" mnemonicParsing="false" onAction="#filter" prefHeight="26.0" prefWidth="121.0" text="Szűrés" textFill="#8c5353">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Button>
+      <Text fill="#894949" layoutX="17.0" layoutY="264.0" strokeType="OUTSIDE" strokeWidth="0.0" text="FILMCÍM" wrappingWidth="146.93670654296875">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text fill="#6e2b2b" layoutX="224.0" layoutY="262.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LEÍRÁS, SZÍNÉSZEK">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

@@ -1,0 +1,373 @@
+388  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+4964 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+35105 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+35109 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+71784 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+82525 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+86056 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+86057 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+87778 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+110217 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+110225 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+113485 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+124135 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+126458 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+154840 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+240  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3435 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+18162 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+18166 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+50182 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+60086 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+65955 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+70397 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+70398 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+72236 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+81935 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+81944 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+84114 [JavaFX Application Thread] INFO  controller.SearchController - Choose the JÓ ESTÉT NYÁR movie 
+109328 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [ROMANTIKUS] 
+111696 [JavaFX Application Thread] INFO  controller.SearchController - Choose the JÓ ESTÉT NYÁR movie 
+115584 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+249  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3672 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+45907 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+234  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3580 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+52367 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+52371 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+56861 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+56862 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+62071 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+319  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3670 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11245 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+238  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3648 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+13403 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+20631 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+20771 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+21020 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+21021 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+21153 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+21154 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+23460 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+23461 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+28549 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+238  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3533 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7785 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+49772 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+49775 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+69115 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+74509 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+78100 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+78101 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+83542 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+97156 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+97158 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+102540 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+105852 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+237  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3540 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7896 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+11214 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+11217 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+20776 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+25214 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+27551 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+27552 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+29311 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+33066 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+33074 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+35172 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+41135 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+241  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3521 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7230 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+256  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3602 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+15659 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+232  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3648 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+22065 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+224  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3569 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8057 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+238  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3602 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11491 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+240  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3601 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8344 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8345 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+11009 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+11012 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+16562 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+29717 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+260  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3713 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7615 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+7619 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+13047 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+22609 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3699 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+13313 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+13316 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+25481 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+33376 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+35528 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+35529 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+37748 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+45566 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+45575 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+48143 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+52953 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+238  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3743 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+9167 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+9170 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+17357 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+22752 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+27730 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+27731 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+29434 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+29435 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+37822 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+42927 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+50471 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+50474 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+55329 [JavaFX Application Thread] INFO  controller.SearchController - Choose the AB movie 
+57774 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+57779 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+59236 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+59242 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+59920 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+59925 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+60887 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+60894 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+69600 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+239  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3925 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+6709 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+6714 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+11225 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+15373 [JavaFX Application Thread] WARN  controller.UploadController - Empty description field 
+15373 [JavaFX Application Thread] WARN  controller.UploadController - The list of actors are empty 
+20973 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+23964 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+23965 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+26345 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+26352 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+27796 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+27798 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+29598 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+29600 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+29625 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+29628 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+29968 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+29970 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+31155 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+47162 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK, DRÁMA, THRILLER, HORROR, AKCIÓ, SCIFI, DOKUMENTUMFILM, ROMANTIKUS] 
+52311 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+254  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3720 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7904 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+14082 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+14213 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+22710 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+22714 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+44584 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+240  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3719 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+6687 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+10293 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+10426 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+20429 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+20429 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+25845 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+32729 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [DRÁMA] 
+42348 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+42351 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+46312 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+47708 [JavaFX Application Thread] INFO  controller.UploadController - Deleted the last TextField 
+48997 [JavaFX Application Thread] INFO  controller.UploadController - Deleted the last TextField 
+57806 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+243  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3657 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7089 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+236  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3772 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+34706 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+34707 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+36025 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+36028 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+45064 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+53651 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+63490 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+66872 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+66873 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+68433 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+78821 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+78830 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+85827 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+85832 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+87727 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+110025 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+110031 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+112642 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+126156 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+126161 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+127984 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+129216 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+130277 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+142321 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+142326 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+143338 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+143344 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+144447 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+144455 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+144472 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+144480 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+146691 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+158591 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+161020 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+162532 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD movie 
+170148 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+244  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3637 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+9069 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+12818 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+12820 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+41662 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+53371 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+55699 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+55700 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+58670 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+58670 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+81134 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+94958 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+98360 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+98361 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+103241 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+108861 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER] 
+112325 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+116643 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+135002 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+148047 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+148052 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+150993 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+170356 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+186780 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+194569 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+194570 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+196035 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+196035 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+200187 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+224673 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+224673 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+225613 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+225614 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+227130 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+237885 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+240823 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+240827 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+242184 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+248991 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+250891 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+268084 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+269669 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+277305 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER, SCIFI] 
+280690 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+233  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3566 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7694 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+7698 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+30416 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+42200 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+63133 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+72427 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+75100 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+75102 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+80000 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+94872 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+234  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3663 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7665 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+7668 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+38111 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+50905 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+79433 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+86919 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+89116 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+89117 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+90735 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+119287 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+119295 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+121780 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+136141 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+136149 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+138802 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CABARET movie 
+149832 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+152188 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CABARET movie 
+197347 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+198961 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+208762 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+239  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3626 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7596 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+7600 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+18820 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+38645 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+50892 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+78858 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+80749 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+80749 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+82275 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+90482 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+90490 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+92909 [JavaFX Application Thread] INFO  controller.SearchController - Choose the MR ÉS MS SMITH movie 
+96647 [JavaFX Application Thread] INFO  controller.SearchController - Choose the DEMÓNA movie 
+99887 [JavaFX Application Thread] INFO  controller.SearchController - Choose the MR ÉS MS SMITH movie 
+138373 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [AKCIÓ] 
+139901 [JavaFX Application Thread] INFO  controller.SearchController - Choose the MR ÉS MS SMITH movie 
+222753 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+273  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+4064 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+50157 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+50160 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+70699 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+91308 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+114131 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+126280 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+145640 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+148423 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+148424 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+151559 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+161635 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+161649 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+169862 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+169871 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+175954 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+191915 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+193977 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+209371 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+209379 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+214680 [JavaFX Application Thread] INFO  controller.SearchController - Choose the MR ÉS MS SMITH movie 
+224056 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT movie 
+225707 [JavaFX Application Thread] INFO  controller.SearchController - Choose the MR ÉS MS SMITH movie 
+244087 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+344  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+4578 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+10584 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+10587 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+19988 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+26615 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+30298 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+30299 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+32022 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+36444 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+36452 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+38899 [JavaFX Application Thread] INFO  controller.SearchController - Choose the  XYSFB movie 
+78388 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
