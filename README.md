@@ -1,7 +1,7 @@
 # MovieHandler
-Filmkezelő alkalmazás
-Filmek adatbázisba való feltöltésére és az adatbázisban való keresésére használható
-Java 8 verzióval készítve
+Filmkezelő alkalmazás.
+Filmek adatbázisba való feltöltésére és az adatbázisban való keresésére használható.
+Java 8 verzióval készítve.
 
 Az adatbázis alapjáraton üres, a film feltöltésével kezdjünk.
 A film feltöltésekor tudunk megadni filmcímet, leírást, kategóriát és a plusz gomb megnyomásával színészeket.
